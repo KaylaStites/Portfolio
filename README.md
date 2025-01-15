@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Overview
-I am an aspiring data scientist looking to utilize my new skills in an impactful way. I have experience with Python, R, SQL, Tableau, PostgreSQL, RStudio, and Jupyter Notebooks.
+I am an aspiring data scientist looking to utilize my new skills in an impactful way. I have experience with Python, R, SQL, and Tableau.
 
 ### Projects
 
